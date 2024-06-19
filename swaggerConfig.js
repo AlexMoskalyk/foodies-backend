@@ -15,7 +15,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:3000',
+        url: 'https://foodies-backend-pzb8.onrender.com',
       },
     ],
   },
